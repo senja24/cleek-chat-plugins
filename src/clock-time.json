@@ -1,9 +1,9 @@
 {
-  "author": "LobeHub",
+  "author": "Senja",
   "createdAt": "2023-11-01",
-  "homepage": "https://github.com/lobehub/chat-plugin-clock-time",
+  "homepage": "https://github.com/senja24/chat-plugin-clock-time",
   "identifier": "clock-time",
-  "manifest": "https://clock-time.chat-plugin.lobehub.com/manifest.json",
+  "manifest": "https://clock-time.chat-plugin.cleek.id/manifest.json",
   "meta": {
     "avatar": "🕐",
     "tags": ["clock", "time"],

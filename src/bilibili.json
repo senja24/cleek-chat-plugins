@@ -1,11 +1,11 @@
 {
-  "author": "LobeHub",
+  "author": "Senja",
   "createdAt": "2024-01-27",
-  "homepage": "https://github.com/lobehub/chat-plugin-bilibili",
+  "homepage": "https://github.com/senja24/chat-plugin-bilibili",
   "identifier": "bilibili",
-  "manifest": "https://bilibili.chat-plugin.lobehub.com/manifest.json",
+  "manifest": "https://bilibili.chat-plugin.cleek.id/manifest.json",
   "meta": {
-    "avatar": "https://bilibili.chat-plugin.lobehub.com/logo.webp",
+    "avatar": "https://bilibili.chat-plugin.cleek.id/logo.webp",
     "tags": ["video", "bilibili", "search"],
     "title": "Bilibili",
     "description": "Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips."

@@ -1,11 +1,11 @@
 {
-  "author": "LobeHub",
+  "author": "Senja",
   "createdAt": "2024-01-27",
-  "homepage": "https://github.com/lobehub/chat-plugin-steam",
+  "homepage": "https://github.com/senja24/chat-plugin-steam",
   "identifier": "steam",
-  "manifest": "https://steam.chat-plugin.lobehub.com/manifest.json",
+  "manifest": "https://steam.chat-plugin.cleek.id/manifest.json",
   "meta": {
-    "avatar": "https://steam.chat-plugin.lobehub.com/logo.webp",
+    "avatar": "https://steam.chat-plugin.cleek.id/logo.webp",
     "tags": ["steam", "game"],
     "title": "Steam",
     "description": "Obtain game information and user reviews from Steam."
