@@ -25,6 +25,6 @@ export const meta = readJSON(metaPath);
 
 export const readmeSplit = '<!-- AWESOME PLUGINS -->';
 
-export const SYNC_URL = 'https://openai-collections.chat-plugin.lobehub.com';
+export const SYNC_URL = 'https://openai-collections.chat-plugin.cleek.id';
 
 export const config = require('../.i18nrc.js');

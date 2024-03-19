@@ -3,9 +3,9 @@
   "createdAt": "2024-01-25",
   "homepage": "https://api.pulsetic.com",
   "identifier": "uptime",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/uptime/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/uptime/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/uptime/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/uptime/logo.webp",
     "description": "Insert your website URL to check the availability. Pulsetic tests the uptime, availability & performance of a website.",
     "tags": ["website", "performance", "test"],
     "title": "Check Website Down"

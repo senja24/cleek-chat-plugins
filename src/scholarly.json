@@ -3,9 +3,9 @@
   "createdAt": "2024-01-23",
   "homepage": "https://scholarly.maila.ai",
   "identifier": "scholarly",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/scholarly/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/scholarly/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/scholarly/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/scholarly/logo.webp",
     "description": "Scholarly is an AI-powered search engine for exploring scientific literature.",
     "tags": ["scientific-literature", "search"],
     "title": "Scholarly"

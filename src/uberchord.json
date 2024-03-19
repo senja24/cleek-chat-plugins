@@ -3,9 +3,9 @@
   "createdAt": "2024-01-25",
   "homepage": "https://guitarchords.pluginboost.com",
   "identifier": "uberchord",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/uberchord/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/uberchord/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/uberchord/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/uberchord/logo.webp",
     "description": "Find guitar chord diagrams by specifying the chord name.",
     "tags": ["music", "guitar", "search"],
     "title": "Uberchord"

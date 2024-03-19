@@ -3,9 +3,9 @@
   "createdAt": "2024-01-23",
   "homepage": "https://openai.tapapis.com",
   "identifier": "GameSight",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/game-sight/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/game-sight/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/game-sight/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/game-sight/logo.webp",
     "description": "Discover games, game-related content, get recommendations, and compare games based on player reviews.",
     "tags": ["game", "search"],
     "title": "GameSight"

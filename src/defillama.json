@@ -3,9 +3,9 @@
   "createdAt": "2024-01-22",
   "homepage": "https://llamawrapper-prod.onrender.com",
   "identifier": "defillama",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/defillama/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/defillama/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/defillama/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/defillama/logo.webp",
     "description": "Retrieve data on DeFi protocols and blockchains.",
     "tags": ["crypto", "de-fi"],
     "title": "Defillama"

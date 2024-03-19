@@ -3,9 +3,9 @@
   "createdAt": "2024-01-25",
   "homepage": "https://api.prod.bardeen.ai",
   "identifier": "Bardeen",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/bardeen/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/bardeen/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/bardeen/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/bardeen/logo.webp",
     "description": "Create and run automations on the most popular web services.",
     "tags": ["workflow", "automatic"],
     "title": "Bardeen"

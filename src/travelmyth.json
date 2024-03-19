@@ -3,9 +3,9 @@
   "createdAt": "2024-01-23",
   "homepage": "https://www.travelmyth.com",
   "identifier": "travelmyth",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/travelmyth/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/travelmyth/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/travelmyth/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/travelmyth/logo.webp",
     "description": "Unleash personalized hotel search with Travelmyth, offering 60 unique categories for the perfect match.",
     "tags": ["travel", "hotel", "search"],
     "title": "Travelmyth"

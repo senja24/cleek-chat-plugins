@@ -3,9 +3,9 @@
   "createdAt": "2024-01-17",
   "homepage": "https://websearch.plugsugar.com",
   "identifier": "web_search",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/web-search/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/web-search/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/web-search/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/web-search/logo.webp",
     "description": "Search for information from the internet",
     "tags": ["search", "plugsugar"],
     "title": "Web Search"

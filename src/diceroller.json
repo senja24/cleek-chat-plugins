@@ -3,9 +3,9 @@
   "createdAt": "2024-01-25",
   "homepage": "https://dmtoolkit.magejosh.repl.co",
   "identifier": "diceroller",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/diceroller/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/diceroller/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/diceroller/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/diceroller/logo.webp",
     "description": "App for rolling dice using the d20 or Fate/Fudge systems.",
     "tags": ["game", "dice", "dm"],
     "title": "DM Tool Kit"

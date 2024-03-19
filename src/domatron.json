@@ -3,9 +3,9 @@
   "createdAt": "2024-01-23",
   "homepage": "https://gpt.domatron.com",
   "identifier": "domatron",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/domatron/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/domatron/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/domatron/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/domatron/logo.webp",
     "description": "Find available, brandable .com domain names for your business businesses.",
     "tags": ["domain", "search"],
     "title": "Domatron Domains"

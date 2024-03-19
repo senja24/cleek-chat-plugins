@@ -3,9 +3,9 @@
   "createdAt": "2024-01-17",
   "homepage": "https://chatgpt.boolio.co.kr",
   "identifier": "boolio",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/boolio/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/boolio/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/boolio/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/boolio/logo.webp",
     "description": "Analyze stock investments from any country, with Boolio's state-of-the-art engine.",
     "tags": ["stock", "analyze"],
     "title": "Boolio Invest"

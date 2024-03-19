@@ -3,9 +3,9 @@
   "createdAt": "2024-01-22",
   "homepage": "https://api.getchange.io",
   "identifier": "nonprofits",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/getchange/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/getchange/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/getchange/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/getchange/logo.webp",
     "description": "Discover impactful nonprofits to support in your community and beyond.",
     "tags": ["charity"],
     "title": "Change"

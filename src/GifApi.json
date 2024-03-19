@@ -3,9 +3,9 @@
   "createdAt": "2024-01-17",
   "homepage": "https://chat-plugin-giphy.efficiency.tools",
   "identifier": "GifApi",
-  "manifest": "https://openai-collections.chat-plugin.lobehub.com/gif-search/manifest.json",
+  "manifest": "https://openai-collections.chat-plugin.cleek.id/gif-search/manifest.json",
   "meta": {
-    "avatar": "https://openai-collections.chat-plugin.lobehub.com/gif-search/logo.webp",
+    "avatar": "https://openai-collections.chat-plugin.cleek.id/gif-search/logo.webp",
     "description": "Search through a wide range of gifs - Powered by Giphy.",
     "tags": ["gif", "image", "search"],
     "title": "GIF Search"
