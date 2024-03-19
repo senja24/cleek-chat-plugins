@@ -12,7 +12,7 @@
 
 <!-- SHIELD GROUP -->
 
-[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/senja24/cleek-plugins)
+[![awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/senja24/cleek-chat-plugins)
 [![website][website-shield]][website-url]
 [![][github-action-test-shield]][github-action-test-link]
 [![][github-action-release-shield]][github-action-release-link]<br/>
@@ -81,8 +81,8 @@ Or clone it for local development:
 [![][bun-shield]][bun-link]
 
 ```bash
-$ git clone https://github.com/senja24/cleek-plugins.git
-$ cd cleek-plugins
+$ git clone https://github.com/senja24/cleek-chat-plugins.git
+$ cd cleek-chat-plugins
 $ bun install
 ```
 
@@ -123,25 +123,25 @@ This project is [MIT](./LICENSE) licensed.
 [bun-link]: https://bun.sh
 [bun-shield]: https://img.shields.io/badge/-speedup%20with%20bun-black?logo=bun&style=for-the-badge
 [deploy-shield]: https://vercel.com/button
-[deploy-url]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Flobehub%2Flobe-chat-plugins&project-name=lobe-chat-plugins&repository-name=lobe-chat-plugins
-[github-action-release-link]: https://github.com/senja24/cleek-plugins/actions/workflows/release.yml
-[github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/senja24/cleek-plugins/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-action-test-link]: https://github.com/senja24/cleek-plugins/actions/workflows/test.yml
-[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/senja24/cleek-plugins/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
-[github-codespace-link]: https://codespaces.new/senja24/cleek-plugins
+[deploy-url]: https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fsenja24%2Fcleek-chat-plugins&project-name=lobe-chat-plugins&repository-name=lobe-chat-plugins
+[github-action-release-link]: https://github.com/senja24/cleek-chat-plugins/actions/workflows/release.yml
+[github-action-release-shield]: https://img.shields.io/github/actions/workflow/status/senja24/cleek-chat-plugins/release.yml?label=release&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
+[github-action-test-link]: https://github.com/senja24/cleek-chat-plugins/actions/workflows/test.yml
+[github-action-test-shield]: https://img.shields.io/github/actions/workflow/status/senja24/cleek-chat-plugins/test.yml?label=test&labelColor=black&logo=githubactions&logoColor=white&style=flat-square
+[github-codespace-link]: https://codespaces.new/senja24/cleek-chat-plugins
 [github-codespace-shield]: https://github.com/codespaces/badge.svg
-[github-contrib-link]: https://github.com/senja24/cleek-plugins/graphs/contributors
+[github-contrib-link]: https://github.com/senja24/cleek-chat-plugins/graphs/contributors
 [github-contrib-shield]: https://contrib.rocks/image?repo=lobehub%2Flobe-chat-plugins
-[github-contributors-link]: https://github.com/senja24/cleek-plugins/graphs/contributors
-[github-contributors-shield]: https://img.shields.io/github/contributors/senja24/cleek-plugins?color=c4f042&labelColor=black&style=flat-square
-[github-forks-link]: https://github.com/senja24/cleek-plugins/network/members
-[github-forks-shield]: https://img.shields.io/github/forks/senja24/cleek-plugins?color=8ae8ff&labelColor=black&style=flat-square
-[github-issues-link]: https://github.com/senja24/cleek-plugins/issues
-[github-issues-shield]: https://img.shields.io/github/issues/senja24/cleek-plugins?color=ff80eb&labelColor=black&style=flat-square
-[github-stars-link]: https://github.com/senja24/cleek-plugins/network/stargazers
-[github-stars-shield]: https://img.shields.io/github/stars/senja24/cleek-plugins?color=ffcb47&labelColor=black&style=flat-square
+[github-contributors-link]: https://github.com/senja24/cleek-chat-plugins/graphs/contributors
+[github-contributors-shield]: https://img.shields.io/github/contributors/senja24/cleek-chat-plugins?color=c4f042&labelColor=black&style=flat-square
+[github-forks-link]: https://github.com/senja24/cleek-chat-plugins/network/members
+[github-forks-shield]: https://img.shields.io/github/forks/senja24/cleek-chat-plugins?color=8ae8ff&labelColor=black&style=flat-square
+[github-issues-link]: https://github.com/senja24/cleek-chat-plugins/issues
+[github-issues-shield]: https://img.shields.io/github/issues/senja24/cleek-chat-plugins?color=ff80eb&labelColor=black&style=flat-square
+[github-stars-link]: https://github.com/senja24/cleek-chat-plugins/network/stargazers
+[github-stars-shield]: https://img.shields.io/github/stars/senja24/cleek-chat-plugins?color=ffcb47&labelColor=black&style=flat-square
 [pr-welcome-shield]: https://img.shields.io/badge/🧩/🏪_submit_plugin-%E2%86%92-95f3d9?labelColor=black&style=for-the-badge
 [profile-url]: https://github.com/senja24
-[submit]: https://github.com/senja24/cleek-plugins/pulls
+[submit]: https://github.com/senja24/cleek-chat-plugins/pulls
 [website-shield]: https://img.shields.io/website?down_message=offline&label=chat-plugins.cleek.id&up_message=online&url=https%3A%2F%2Fchat-plugins.cleek.id&labelColor=black&logo=vercel&style=flat-square
 [website-url]: https://chat-plugins.cleek.id

@@ -1,12 +1,12 @@
 {
-  "name": "@senja24/cleek-plugins",
+  "name": "@senja24/cleek-chat-plugins",
   "version": "0.0.0",
   "private": true,
   "description": "Cleek Plugins Index",
-  "homepage": "https://github.com/senja24/cleek-plugins",
+  "homepage": "https://github.com/senja24/cleek-chat-plugins",
   "repository": {
     "type": "git",
-    "url": "https://github.com/senja24/cleek-plugins.git"
+    "url": "https://github.com/senja24/cleek-chat-plugins.git"
   },
   "license": "MIT",
   "author": "Cleek <support@cleek.id>",
