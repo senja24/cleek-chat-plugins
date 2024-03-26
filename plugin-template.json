@@ -2,7 +2,9 @@
   "author": "your name or org name",
   "homepage": "https://github.com/OWNER/REPO",
   "identifier": "plugin-template # same as your filename",
-  "locale": "id-ID # you can set locale if you use other i18n language, default is en-US",
+  "localocaleorkflow",
+
+localocalelele": "id-ID # you can set locale if you use other i18n language, default is en-US",
   "manifest": "https://url.to/manifest.json",
   "meta": {
     "avatar": "☂️ emoji or logo url",
