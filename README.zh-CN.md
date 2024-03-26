@@ -1,37 +1,5 @@
 <h1>Cleek Plugins Index</h1><!-- AWESOME PLUGINS -->
 
-### 社交搜索
-
-<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-03-26**</sup>
-
-社交搜索提供访问推文、用户、关注者、图片、媒体等功能。
-
-`社交` `推特` `x` `搜索`
-
-<div align="right">
-
-[!\[\]\[back-to-top\]](#readme-top)
-
-</div>
-
----
-
-### 图表和图示
-
-<sup>By **[@pyxl](https://mermaid.pyxl.uk)** on **2024-03-26**</sup>
-
-美人鱼图表，演示文稿方案，分析，研究网站，饼图。
-
-`图表` `图示`
-
-<div align="right">
-
-[!\[\]\[back-to-top\]](#readme-top)
-
-</div>
-
----
-
 ### 日历助手
 
 <sup>By **[@cc](https://www.ccalendar.space)** on **2024-03-13**</sup>
@@ -183,22 +151,6 @@
 一个研究助理，返回用户请求的一组艺术品示例的 URI 集合。
 
 `艺术` `美术` `搜索`
-
-<div align="right">
-
-[!\[\]\[back-to-top\]](#readme-top)
-
-</div>
-
----
-
-### ImageSearch
-
-<sup>By **[@aigenprompt](https://imgser.aigenprompt.com)** on **2024-01-25**</sup>
-
-发现免费图片，以增强您生成的文章，或突出来自 Unsplash 的特定段落。
-
-`图片` `搜索`
 
 <div align="right">
 

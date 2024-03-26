@@ -1,37 +1,5 @@
 <h1>Cleek Plugins Index</h1><!-- AWESOME PLUGINS -->
 
-### Social Search
-
-<sup>By **[@say-apps](https://twitter.say-apps.com)** on **2024-03-26**</sup>
-
-The Social Search provides access to tweets, users, followers, images, media and more.
-
-`social` `twitter` `x` `search`
-
-<div align="right">
-
-[!\[\]\[back-to-top\]](#readme-top)
-
-</div>
-
----
-
-### Charts & Diagrams
-
-<sup>By **[@pyxl](https://mermaid.pyxl.uk)** on **2024-03-26**</sup>
-
-Mermaid Diagrams, Schemes for Presentations, Analysis, research websites, pie charts.
-
-`chart` `diagram`
-
-<div align="right">
-
-[!\[\]\[back-to-top\]](#readme-top)
-
-</div>
-
----
-
 ### Calendar Assistant
 
 <sup>By **[@cc](https://www.ccalendar.space)** on **2024-03-13**</sup>
@@ -183,22 +151,6 @@ Plugin for accessing, browsing and extracting Medium content.
 A research assistant that returns a set of URI's to examples of fine art requested by user.
 
 `art` `fineart` `search`
-
-<div align="right">
-
-[!\[\]\[back-to-top\]](#readme-top)
-
-</div>
-
----
-
-### ImageSearch
-
-<sup>By **[@aigenprompt](https://imgser.aigenprompt.com)** on **2024-01-25**</sup>
-
-Discover complimentary images to enhance your generated article or to highlight specific paragraphs from Unsplash.
-
-`image` `search`
 
 <div align="right">
 
