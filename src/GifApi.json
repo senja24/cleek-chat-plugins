@@ -7,11 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.cleek.id/gif-search/logo.webp",
     "description": "Search through a wide range of gifs - Powered by Giphy.",
-    "tags": [
-      "gif",
-      "image",
-      "search"
-    ],
+    "tags": ["gif", "image", "search"],
     "title": "GIF Search"
   },
   "schemaVersion": 1

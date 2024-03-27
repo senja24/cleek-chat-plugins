@@ -45,13 +45,11 @@
   - [DM Tool Kit](#dm-tool-kit)
   - [Medium plugin](#medium-plugin)
   - [SuperStock Fine Art](#superstock-fine-art)
-  - [ImageSearch](#imagesearch)
   - [Check Website Down](#check-website-down)
   - [Access Google Sheet](#access-google-sheet)
   - [Shopping tools](#shopping-tools)
   - [LevinBot](#levinbot)
   - [AladinBooks](#aladinbooks)
-  - [Space](#space)
   - [MixerBox Weather](#mixerbox-weather)
   - [Filtir](#filtir)
   - [MixerBox Translate](#mixerbox-translate)
@@ -169,7 +167,7 @@ Get realtime crypto price, BTC, ETH, BNB, and the latest insights.The latest coi
 
 ### Steam
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2024-01-27**</sup>
 
 Obtain game information and user reviews from Steam.
 
@@ -185,7 +183,7 @@ Obtain game information and user reviews from Steam.
 
 ### Bilibili
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2024-01-27**</sup>
 
 Dive into Bilibili's vast content with features like keyword video search, replay access, interactive danmaku, trending video recommendations, and hot-search insights, all at your fingertips.
 
@@ -295,22 +293,6 @@ A research assistant that returns a set of URI's to examples of fine art request
 
 ---
 
-### ImageSearch
-
-<sup>By **[@aigenprompt](https://imgser.aigenprompt.com)** on **2024-01-25**</sup>
-
-Discover complimentary images to enhance your generated article or to highlight specific paragraphs from Unsplash.
-
-`image` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### Check Website Down
 
 <sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
@@ -382,22 +364,6 @@ Search research papers and transcripts of talks from Dr. Michael Levin's Lab.
 Search for books on Aladin.
 
 `book` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Space
-
-<sup>By **[@automateyournetwork](https://space.automateyournetwork.ca)** on **2024-01-25**</sup>
-
-Space data including NASA.
-
-`space` `nasa`
 
 <div align="right">
 
@@ -777,7 +743,7 @@ Unlock the power of your PDFs!, dive into your documents, find answers, and brin
 
 ### Midjourney
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-midjourney)** on **2024-01-18**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2024-01-18**</sup>
 
 Unleash creativity with Midjourney, effortlessly generating unique AI-driven images through simple prompts. Add visual flair to your conversations with Midjourney's artistic touch.
 
@@ -985,7 +951,7 @@ Generate images through pollinations.ai
 
 ### Clock Time
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2023-11-01**</sup>
 
 Display a clock to show current time
 
@@ -1001,7 +967,7 @@ Display a clock to show current time
 
 ### Website Crawler
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2023-08-17**</sup>
 
 Extract content from web links
 
@@ -1017,7 +983,7 @@ Extract content from web links
 
 ### Search Engine
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2023-08-15**</sup>
 
 Query search engine to get information
 
@@ -1033,7 +999,7 @@ Query search engine to get information
 
 ### Realtime Weather
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2023-08-12**</sup>
 
 Get realtime weather information
 

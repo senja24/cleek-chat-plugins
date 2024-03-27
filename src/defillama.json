@@ -7,10 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.cleek.id/defillama/logo.webp",
     "description": "Retrieve data on DeFi protocols and blockchains.",
-    "tags": [
-      "crypto",
-      "de-fi"
-    ],
+    "tags": ["crypto", "de-fi"],
     "title": "Defillama"
   },
   "schemaVersion": 1

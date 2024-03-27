@@ -7,11 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.cleek.id/ask-your-pdf/logo.webp",
     "description": "Unlock the power of your PDFs!, dive into your documents, find answers, and bring information to your fingertips.",
-    "tags": [
-      "pdf",
-      "document",
-      "web"
-    ],
+    "tags": ["pdf", "document", "web"],
     "title": "AskYourPDF"
   },
   "schemaVersion": 1

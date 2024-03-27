@@ -7,9 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.cleek.id/getchange/logo.webp",
     "description": "Discover impactful nonprofits to support in your community and beyond.",
-    "tags": [
-      "charity"
-    ],
+    "tags": ["charity"],
     "title": "Change"
   },
   "schemaVersion": 1

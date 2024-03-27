@@ -7,10 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.cleek.id/bardeen/logo.webp",
     "description": "Create and run automations on the most popular web services.",
-    "tags": [
-      "workflow",
-      "automatic"
-    ],
+    "tags": ["workflow", "automatic"],
     "title": "Bardeen"
   },
   "schemaVersion": 1
