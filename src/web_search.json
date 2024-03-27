@@ -7,7 +7,10 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.cleek.id/web-search/logo.webp",
     "description": "Search for information from the internet",
-    "tags": ["search", "plugsugar"],
+    "tags": [
+      "search",
+      "plugsugar"
+    ],
     "title": "Web Search"
   },
   "schemaVersion": 1
