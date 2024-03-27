@@ -7,10 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.cleek.id/medium/logo.webp",
     "description": "Plugin for accessing, browsing and extracting Medium content.",
-    "tags": [
-      "article",
-      "search"
-    ],
+    "tags": ["article", "search"],
     "title": "Medium plugin"
   },
   "schemaVersion": 1

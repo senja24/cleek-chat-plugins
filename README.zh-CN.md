@@ -45,13 +45,11 @@
   - [DM 工具包](#dm-工具包)
   - [Medium plugin](#medium-plugin)
   - [SuperStock Fine Art](#superstock-fine-art)
-  - [ImageSearch](#imagesearch)
   - [检查网站是否宕机](#检查网站是否宕机)
   - [访问 Google 表格](#访问-google-表格)
   - [购物工具](#购物工具)
   - [LevinBot](#levinbot)
   - [AladinBooks](#aladinbooks)
-  - [空间](#空间)
   - [MixerBox Weather](#mixerbox-weather)
   - [Filtir](#filtir)
   - [MixerBox 翻译](#mixerbox-翻译)
@@ -169,7 +167,7 @@
 
 ### Steam
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-steam)** on **2024-01-27**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2024-01-27**</sup>
 
 从 Steam 获取游戏信息和用户评论。
 
@@ -185,7 +183,7 @@
 
 ### 哔哩哔哩
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-bilibili)** on **2024-01-27**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2024-01-27**</sup>
 
 通过关键词视频搜索、回放访问、互动弹幕、热门视频推荐和热搜洞察等功能，深入体验哔哩哔哩丰富的内容，尽在您的指尖。
 
@@ -295,22 +293,6 @@
 
 ---
 
-### ImageSearch
-
-<sup>By **[@aigenprompt](https://imgser.aigenprompt.com)** on **2024-01-25**</sup>
-
-发现免费图片，以增强您生成的文章，或突出来自 Unsplash 的特定段落。
-
-`图片` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
 ### 检查网站是否宕机
 
 <sup>By **[@pulsetic](https://api.pulsetic.com)** on **2024-01-25**</sup>
@@ -382,22 +364,6 @@
 在阿拉丁上搜索书籍。
 
 `书籍` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 空间
-
-<sup>By **[@automateyournetwork](https://space.automateyournetwork.ca)** on **2024-01-25**</sup>
-
-包括 NASA 的空间数据。
-
-`空间` `nasa`
 
 <div align="right">
 
@@ -777,7 +743,7 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ### Midjourney
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-midjourney)** on **2024-01-18**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2024-01-18**</sup>
 
 通过简单的提示轻松释放创造力，利用 Midjourney 生成独特的 AI 驱动图像。通过 Midjourney 的艺术触感为您的对话增添视觉魅力。
 
@@ -985,7 +951,7 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ### 时钟时间
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-clock-time)** on **2023-11-01**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2023-11-01**</sup>
 
 显示一个时钟来展示当前时间
 
@@ -1001,7 +967,7 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ### 网站爬虫
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-web-crawler)** on **2023-08-17**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2023-08-17**</sup>
 
 从网页链接中提取内容
 
@@ -1017,7 +983,7 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ### 搜索引擎
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-search-engine)** on **2023-08-15**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2023-08-15**</sup>
 
 查询搜索引擎以获取信息
 
@@ -1033,7 +999,7 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 
 ### 实时天气
 
-<sup>By **[@LobeHub](https://github.com/lobehub/chat-plugin-realtime-weather)** on **2023-08-12**</sup>
+<sup>By **[@Cleek](https://cleek.id)** on **2023-08-12**</sup>
 
 获取实时天气信息
 

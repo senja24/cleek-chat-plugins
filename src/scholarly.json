@@ -7,10 +7,7 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.cleek.id/scholarly/logo.webp",
     "description": "Scholarly is an AI-powered search engine for exploring scientific literature.",
-    "tags": [
-      "scientific-literature",
-      "search"
-    ],
+    "tags": ["scientific-literature", "search"],
     "title": "Scholarly"
   },
   "schemaVersion": 1
