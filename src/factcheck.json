@@ -7,7 +7,10 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.cleek.id/factcheck/logo.webp",
     "description": "Verify the provided text using external sources.",
-    "tags": ["check", "fact"],
+    "tags": [
+      "check",
+      "fact"
+    ],
     "title": "Filtir"
   },
   "schemaVersion": 1

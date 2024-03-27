@@ -1,12 +1,15 @@
 {
-  "author": "Senja",
+  "author": "Cleek",
   "createdAt": "2023-08-17",
   "homepage": "https://cleek.id",
   "identifier": "website-crawler",
   "manifest": "https://web-crawler.chat-plugin.lobehub.com/manifest.json",
   "meta": {
     "avatar": "🕸",
-    "tags": ["web", "content-crawler"],
+    "tags": [
+      "web",
+      "content-crawler"
+    ],
     "title": "Website Crawler",
     "description": "Extract content from web links"
   },

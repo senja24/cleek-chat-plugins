@@ -1,12 +1,15 @@
 {
-  "author": "Senja",
+  "author": "Cleek",
   "createdAt": "2023-08-15",
-  "homepage": "https://github.com/senja24/chat-plugin-search-engine",
+  "homepage": "https://cleek.id",
   "identifier": "search-engine",
-  "manifest": "search-engine.chat-plugin.cleek.id/manifest.json",
+  "manifest": "https://search-engine.chat-plugin.lobehub.com/manifest.json",
   "meta": {
     "avatar": "🔍",
-    "tags": ["web", "search"],
+    "tags": [
+      "web",
+      "search"
+    ],
     "title": "Search Engine",
     "description": "Query search engine to get information"
   },

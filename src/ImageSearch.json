@@ -7,7 +7,10 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.cleek.id/image-search/logo.webp",
     "description": "Discover complimentary images to enhance your generated article or to highlight specific paragraphs from Unsplash.",
-    "tags": ["image", "search"],
+    "tags": [
+      "image",
+      "search"
+    ],
     "title": "ImageSearch"
   },
   "schemaVersion": 1

@@ -7,7 +7,9 @@
   "meta": {
     "avatar": "https://openai-collections.chat-plugin.cleek.id/diagrams-show-me/logo.webp",
     "description": "Schemes, Diagrams, Architecture Visualisations, Flow-Charts, Mind Maps. Export and Edit for free!",
-    "tags": ["diagrams"],
+    "tags": [
+      "diagrams"
+    ],
     "title": "Diagrams: Show Me"
   },
   "schemaVersion": 1
