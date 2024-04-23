@@ -63,7 +63,6 @@
   - [GuruWalk](#guruwalk)
   - [Questmate Forms](#questmate-forms)
   - [GameSight](#gamesight)
-  - [Scholarly](#scholarly)
   - [SEO](#seo)
   - [Video Summary](#video-summary)
   - [Travelmyth](#travelmyth)
@@ -572,22 +571,6 @@ Create forms, checklists and workflows (we call 'em Quests!) that you can assign
 Discover games, game-related content, get recommendations, and compare games based on player reviews.
 
 `game` `search`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### Scholarly
-
-<sup>By **[@maila](https://scholarly.maila.ai)** on **2024-01-23**</sup>
-
-Scholarly is an AI-powered search engine for exploring scientific literature.
-
-`scientific-literature` `search`
 
 <div align="right">
 

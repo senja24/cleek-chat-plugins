@@ -63,7 +63,6 @@
   - [GuruWalk](#guruwalk)
   - [Questmate Forms](#questmate-forms)
   - [GameSight](#gamesight)
-  - [学术](#学术)
   - [SEO](#seo)
   - [视频摘要](#视频摘要)
   - [Travelmyth](#travelmyth)
@@ -572,22 +571,6 @@ SEO 助手可以生成搜索引擎关键词信息，以帮助创建内容。
 发现游戏、与游戏相关的内容、获取推荐，并根据玩家评价比较游戏。
 
 `游戏` `搜索`
-
-<div align="right">
-
-[![][back-to-top]](#readme-top)
-
-</div>
-
----
-
-### 学术
-
-<sup>By **[@maila](https://scholarly.maila.ai)** on **2024-01-23**</sup>
-
-学术是一个用人工智能驱动的搜索引擎，用于探索科学文献。
-
-`科学文献` `搜索`
 
 <div align="right">
 
